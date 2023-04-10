@@ -3,7 +3,7 @@ import React, { useState } from "react";
 import { MovieInterface } from "@/interface/movie";
 import { imageUrl } from "@/constant/data";
 import { AiFillPlayCircle } from "react-icons/ai";
-import { IoIosInformationCircle } from "react-icons/Io";
+import { IoIosInformationCircle } from "react-icons/io";
 import MovieDialog from "./MovieDialog";
 import Link from "next/link";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
